@@ -1,0 +1,891 @@
+{
+  "App" : "",
+  "AppBundleID" : "Xjasin.SDKTestApp",
+  "AppScannerVersion" : "1.4.2",
+  "AppSellerName" : "",
+  "AppSellerURL" : "",
+  "AppVersion" : "1.0.4",
+  "Domains" : [
+    {
+      "name" : "android.com",
+      "subdomains" : [
+        {
+          "ips" : [
+
+          ],
+          "name" : "mcs.android.com",
+          "urls" : [
+            "http://mcs.android.com",
+            "mcs.android.com"
+          ]
+        }
+      ]
+    },
+    {
+      "name" : "app-measurement.com",
+      "subdomains" : [
+        {
+          "ips" : [
+            {
+              "asn" : "AS15169",
+              "city" : "",
+              "country" : "United States",
+              "countryCode" : "US",
+              "dmaCode" : 0,
+              "hostnames" : [
+                "fra07s63-in-f142.1e100.net",
+                "arn11s02-in-f14.1e100.net"
+              ],
+              "ip" : "172.217.21.142",
+              "latitude" : 37.750999999999998,
+              "longitude" : -97.822000000000003,
+              "organization" : "Google",
+              "ports" : [
+                80,
+                443
+              ],
+              "postalCode" : "",
+              "regionCode" : ""
+            }
+          ],
+          "name" : "app-measurement.com",
+          "urls" : [
+            "app-measurement.com",
+            "http://app-measurement.com",
+            "https://app-measurement.com/a",
+            "https://app-measurement.com/sdk-exp"
+          ]
+        }
+      ]
+    },
+    {
+      "name" : "apple.com",
+      "subdomains" : [
+        {
+          "ips" : [
+            {
+              "asn" : "AS16625",
+              "city" : "Stockholm",
+              "country" : "Sweden",
+              "countryCode" : "SE",
+              "dmaCode" : 0,
+              "hostnames" : [
+                "a2-23-144-254.deploy.static.akamaitechnologies.com"
+              ],
+              "ip" : "2.23.144.254",
+              "latitude" : 59.333300000000001,
+              "longitude" : 18.050000000000001,
+              "organization" : "Akamai Technologies",
+              "ports" : [
+                80,
+                443
+              ],
+              "postalCode" : "",
+              "regionCode" : "AB"
+            }
+          ],
+          "name" : "www.apple.com",
+          "urls" : [
+            "http://www.apple.com/DTDs/PropertyList-1.0.dtd"
+          ]
+        }
+      ]
+    },
+    {
+      "name" : "appmeasurement.com",
+      "subdomains" : [
+        {
+          "ips" : [
+
+          ],
+          "name" : "appmeasurement.com",
+          "urls" : [
+            "https://appmeasurement.com/a",
+            "https://appmeasurement.com/sdkexp"
+          ]
+        }
+      ]
+    },
+    {
+      "name" : "clsuserdefaults.io",
+      "subdomains" : [
+        {
+          "ips" : [
+
+          ],
+          "name" : "com.crashlytics.clsuserdefaults.io",
+          "urls" : [
+            "http://com.crashlytics.CLSUserDefaults.io"
+          ]
+        }
+      ]
+    },
+    {
+      "name" : "crashlytics.com",
+      "subdomains" : [
+        {
+          "ips" : [
+            {
+              "asn" : "AS15169",
+              "city" : "",
+              "country" : "United States",
+              "countryCode" : "US",
+              "dmaCode" : 0,
+              "hostnames" : [
+                "arn09s22-in-f3.1e100.net"
+              ],
+              "ip" : "142.250.74.35",
+              "latitude" : 37.750999999999998,
+              "longitude" : -97.822000000000003,
+              "organization" : "Google",
+              "ports" : [
+                80,
+                443
+              ],
+              "postalCode" : "",
+              "regionCode" : ""
+            }
+          ],
+          "name" : "firebase-settings.crashlytics.com",
+          "urls" : [
+            "https://firebase-settings.crashlytics.com"
+          ]
+        },
+        {
+          "ips" : [
+
+          ],
+          "name" : "firebasesettings.crashlytics.com",
+          "urls" : [
+            "https://firebasesettings.crashlytics.com"
+          ]
+        },
+        {
+          "ips" : [
+
+          ],
+          "name" : "reports.crashlytics.com",
+          "urls" : [
+            "https://reports.crashlytics.com"
+          ]
+        },
+        {
+          "ips" : [
+            {
+              "asn" : "AS15169",
+              "city" : "",
+              "country" : "United States",
+              "countryCode" : "US",
+              "dmaCode" : 0,
+              "hostnames" : [
+                "par10s09-in-f35.1e100.net",
+                "arn11s01-in-f3.1e100.net"
+              ],
+              "ip" : "172.217.20.35",
+              "latitude" : 37.750999999999998,
+              "longitude" : -97.822000000000003,
+              "organization" : "Google",
+              "ports" : [
+                80,
+                443
+              ],
+              "postalCode" : "",
+              "regionCode" : ""
+            }
+          ],
+          "name" : "update.crashlytics.com",
+          "urls" : [
+            "https://update.crashlytics.com"
+          ]
+        }
+      ]
+    },
+    {
+      "name" : "crashlytics.in",
+      "subdomains" : [
+        {
+          "ips" : [
+
+          ],
+          "name" : "com.crashlytics.in",
+          "urls" : [
+            "http://com.crashlytics.in"
+          ]
+        }
+      ]
+    },
+    {
+      "name" : "dummy.com",
+      "subdomains" : [
+        {
+          "ips" : [
+            {
+              "asn" : "AS133618",
+              "city" : "",
+              "country" : "Australia",
+              "countryCode" : "AU",
+              "dmaCode" : 0,
+              "hostnames" : [
+                "lb-182-212.above.com"
+              ],
+              "ip" : "103.224.182.212",
+              "latitude" : -33.494,
+              "longitude" : 143.21039999999999,
+              "organization" : "Trellian Pty. Limited",
+              "ports" : [
+                80,
+                9009,
+                443
+              ],
+              "postalCode" : "",
+              "regionCode" : ""
+            }
+          ],
+          "name" : "dummyapiverylong-dummy.dummy.com",
+          "urls" : [
+            "https://dummyapiverylong-dummy.dummy.com/dummy/api/very/long"
+          ]
+        },
+        {
+          "ips" : [
+            {
+              "asn" : "AS133618",
+              "city" : "",
+              "country" : "Australia",
+              "countryCode" : "AU",
+              "dmaCode" : 0,
+              "hostnames" : [
+                "lb-182-212.above.com"
+              ],
+              "ip" : "103.224.182.212",
+              "latitude" : -33.494,
+              "longitude" : 143.21039999999999,
+              "organization" : "Trellian Pty. Limited",
+              "ports" : [
+                80,
+                9009,
+                443
+              ],
+              "postalCode" : "",
+              "regionCode" : ""
+            }
+          ],
+          "name" : "dummyapiverylongdummy.dummy.com",
+          "urls" : [
+            "https://dummyapiverylongdummy.dummy.com/dummy/api/very/long"
+          ]
+        }
+      ]
+    },
+    {
+      "name" : "goo.gl",
+      "subdomains" : [
+        {
+          "ips" : [
+            {
+              "asn" : "AS15169",
+              "city" : "",
+              "country" : "United States",
+              "countryCode" : "US",
+              "dmaCode" : 0,
+              "hostnames" : [
+                "arn09s21-in-f14.1e100.net"
+              ],
+              "ip" : "142.250.74.14",
+              "latitude" : 37.750999999999998,
+              "longitude" : -97.822000000000003,
+              "organization" : "Google",
+              "ports" : [
+                80,
+                443
+              ],
+              "postalCode" : "",
+              "regionCode" : ""
+            }
+          ],
+          "name" : "goo.gl",
+          "urls" : [
+            "http://goo.gl/9vSsPb",
+            "http://goo.gl/RfcP7r",
+            "https://goo.gl/YNbdK2",
+            "https://goo.gl/ctyzm8",
+            "https://goo.gl/txkZbE"
+          ]
+        }
+      ]
+    },
+    {
+      "name" : "google.com",
+      "subdomains" : [
+        {
+          "ips" : [
+            {
+              "asn" : "AS15169",
+              "city" : "",
+              "country" : "United States",
+              "countryCode" : "US",
+              "dmaCode" : 0,
+              "hostnames" : [
+                "arn09s22-in-f14.1e100.net"
+              ],
+              "ip" : "142.250.74.46",
+              "latitude" : 37.750999999999998,
+              "longitude" : -97.822000000000003,
+              "organization" : "Google",
+              "ports" : [
+                80,
+                443
+              ],
+              "postalCode" : "",
+              "regionCode" : ""
+            }
+          ],
+          "name" : "console.firebase.google.com",
+          "urls" : [
+            "https://console.firebase.google.com/"
+          ]
+        },
+        {
+          "ips" : [
+            {
+              "asn" : "AS15169",
+              "city" : "",
+              "country" : "United States",
+              "countryCode" : "US",
+              "dmaCode" : 0,
+              "hostnames" : [
+                "arn09s22-in-f14.1e100.net"
+              ],
+              "ip" : "142.250.74.46",
+              "latitude" : 37.750999999999998,
+              "longitude" : -97.822000000000003,
+              "organization" : "Google",
+              "ports" : [
+                80,
+                443
+              ],
+              "postalCode" : "",
+              "regionCode" : ""
+            }
+          ],
+          "name" : "firebase.google.com",
+          "urls" : [
+            "https://firebase.google.com/docs/cloud-messaging/ios/client",
+            "https://firebase.google.com/docs/cloudmessaging/ios/clientmethod_swizzling_in_firebase_messaging"
+          ]
+        },
+        {
+          "ips" : [
+            {
+              "asn" : "AS15169",
+              "city" : "Mountain View",
+              "country" : "United States",
+              "countryCode" : "US",
+              "dmaCode" : 807,
+              "hostnames" : [
+                "arn09s10-in-f14.1e100.net",
+                "arn09s10-in-f142.1e100.net"
+              ],
+              "ip" : "216.58.211.142",
+              "latitude" : 37.404299999999999,
+              "longitude" : -122.0748,
+              "organization" : "Google",
+              "ports" : [
+                80,
+                443
+              ],
+              "postalCode" : "",
+              "regionCode" : "CA"
+            }
+          ],
+          "name" : "support.google.com",
+          "urls" : [
+            "https://support.google.com/admob/answer/6383165"
+          ]
+        },
+        {
+          "ips" : [
+            {
+              "asn" : "AS15169",
+              "city" : "",
+              "country" : "United States",
+              "countryCode" : "US",
+              "dmaCode" : 0,
+              "hostnames" : [
+                "lg-in-f188.1e100.net"
+              ],
+              "ip" : "64.233.165.188",
+              "latitude" : 37.750999999999998,
+              "longitude" : -97.822000000000003,
+              "organization" : "Google",
+              "ports" : [
+                443
+              ],
+              "postalCode" : "",
+              "regionCode" : ""
+            }
+          ],
+          "name" : "mtalk.google.com",
+          "urls" : [
+            "http://mtalk.google.com",
+            "mtalk.google.com"
+          ]
+        },
+        {
+          "ips" : [
+            {
+              "asn" : "AS15169",
+              "city" : "Mountain View",
+              "country" : "United States",
+              "countryCode" : "US",
+              "dmaCode" : 807,
+              "hostnames" : [
+                "arn09s19-in-f4.1e100.net"
+              ],
+              "ip" : "216.58.207.228",
+              "latitude" : 37.404299999999999,
+              "longitude" : -122.0748,
+              "organization" : "Google",
+              "ports" : [
+                80,
+                443
+              ],
+              "postalCode" : "",
+              "regionCode" : "CA"
+            }
+          ],
+          "name" : "www.google.com",
+          "urls" : [
+            "http://www.google.com",
+            "www.google.com"
+          ]
+        }
+      ]
+    },
+    {
+      "name" : "google.to",
+      "subdomains" : [
+        {
+          "ips" : [
+            {
+              "asn" : "AS15169",
+              "city" : "",
+              "country" : "United States",
+              "countryCode" : "US",
+              "dmaCode" : 0,
+              "hostnames" : [
+                "par10s09-in-f35.1e100.net",
+                "arn11s01-in-f3.1e100.net"
+              ],
+              "ip" : "172.217.20.35",
+              "latitude" : 37.750999999999998,
+              "longitude" : -97.822000000000003,
+              "organization" : "Google",
+              "ports" : [
+                80,
+                443
+              ],
+              "postalCode" : "",
+              "regionCode" : ""
+            }
+          ],
+          "name" : "google.to",
+          "urls" : [
+            "google.to",
+            "http://google.to"
+          ]
+        }
+      ]
+    },
+    {
+      "name" : "googleapis.com",
+      "subdomains" : [
+        {
+          "ips" : [
+            {
+              "asn" : "AS15169",
+              "city" : "Mountain View",
+              "country" : "United States",
+              "countryCode" : "US",
+              "dmaCode" : 807,
+              "hostnames" : [
+                "arn09s19-in-f10.1e100.net"
+              ],
+              "ip" : "216.58.207.234",
+              "latitude" : 37.404299999999999,
+              "longitude" : -122.0748,
+              "organization" : "Google",
+              "ports" : [
+                80,
+                443
+              ],
+              "postalCode" : "",
+              "regionCode" : "CA"
+            }
+          ],
+          "name" : "device-provisioning.googleapis.com",
+          "urls" : [
+            "https://device-provisioning.googleapis.com/checkin"
+          ]
+        },
+        {
+          "ips" : [
+            {
+              "asn" : "AS15169",
+              "city" : "",
+              "country" : "United States",
+              "countryCode" : "US",
+              "dmaCode" : 0,
+              "hostnames" : [
+                "arn11s02-in-f10.1e100.net",
+                "fra07s63-in-f138.1e100.net"
+              ],
+              "ip" : "172.217.21.138",
+              "latitude" : 37.750999999999998,
+              "longitude" : -97.822000000000003,
+              "organization" : "Google",
+              "ports" : [
+                80,
+                443
+              ],
+              "postalCode" : "",
+              "regionCode" : ""
+            }
+          ],
+          "name" : "deviceprovisioning.googleapis.com",
+          "urls" : [
+            "https://deviceprovisioning.googleapis.com/checkin"
+          ]
+        },
+        {
+          "ips" : [
+            {
+              "asn" : "AS15169",
+              "city" : "",
+              "country" : "United States",
+              "countryCode" : "US",
+              "dmaCode" : 0,
+              "hostnames" : [
+                "arn11s02-in-f10.1e100.net",
+                "fra07s63-in-f138.1e100.net"
+              ],
+              "ip" : "172.217.21.138",
+              "latitude" : 37.750999999999998,
+              "longitude" : -97.822000000000003,
+              "organization" : "Google",
+              "ports" : [
+                80,
+                443
+              ],
+              "postalCode" : "",
+              "regionCode" : ""
+            }
+          ],
+          "name" : "fcmtoken.googleapis.com",
+          "urls" : [
+            "https://fcmtoken.googleapis.com/register"
+          ]
+        },
+        {
+          "ips" : [
+            {
+              "asn" : "AS15169",
+              "city" : "",
+              "country" : "United States",
+              "countryCode" : "US",
+              "dmaCode" : 0,
+              "hostnames" : [
+                "fra07s64-in-f170.1e100.net",
+                "arn11s03-in-f10.1e100.net"
+              ],
+              "ip" : "172.217.21.170",
+              "latitude" : 37.750999999999998,
+              "longitude" : -97.822000000000003,
+              "organization" : "Google",
+              "ports" : [
+                80,
+                443
+              ],
+              "postalCode" : "",
+              "regionCode" : ""
+            },
+            {
+              "asn" : "AS15169",
+              "city" : "",
+              "country" : "United States",
+              "countryCode" : "US",
+              "dmaCode" : 0,
+              "hostnames" : [
+                "arn11s02-in-f10.1e100.net",
+                "fra07s63-in-f138.1e100.net"
+              ],
+              "ip" : "172.217.21.138",
+              "latitude" : 37.750999999999998,
+              "longitude" : -97.822000000000003,
+              "organization" : "Google",
+              "ports" : [
+                80,
+                443
+              ],
+              "postalCode" : "",
+              "regionCode" : ""
+            }
+          ],
+          "name" : "firebaseinstallations.googleapis.com",
+          "urls" : [
+            "https://firebaseinstallations.googleapis.com"
+          ]
+        },
+        {
+          "ips" : [
+            {
+              "asn" : "AS15169",
+              "city" : "",
+              "country" : "United States",
+              "countryCode" : "US",
+              "dmaCode" : 0,
+              "hostnames" : [
+                "arn09s11-in-f170.1e100.net",
+                "arn09s11-in-f10.1e100.net"
+              ],
+              "ip" : "172.217.22.170",
+              "latitude" : 37.750999999999998,
+              "longitude" : -97.822000000000003,
+              "organization" : "Google",
+              "ports" : [
+                80,
+                443
+              ],
+              "postalCode" : "",
+              "regionCode" : ""
+            }
+          ],
+          "name" : "firebaselogging.googleapis.com",
+          "urls" : [
+            "https://firebaselogging.googleapis.com/v0cc/log/logging-pa.googleapis.com/v1/firelog/legacy/batchttps://crashlyticsreports-pa.googleapis.com/v1/firelog/legacy/bAIzaSyB4G40IhwotnuD26vAV-0PAxOVratchlog",
+            "https://firebaselogging.googleapis.com/v0cc/log/loggingpa.googleapis.com/v1/firelog/legacy/batchttps://crashlyticsreportspa.googleapis.com/v1/firelog/legacy/bAIzaSyB4G40IhwotnuD26vAV0PAxOVratchlog"
+          ]
+        },
+        {
+          "ips" : [
+            {
+              "asn" : "AS15169",
+              "city" : "",
+              "country" : "United States",
+              "countryCode" : "US",
+              "dmaCode" : 0,
+              "hostnames" : [
+                "arn09s11-in-f170.1e100.net",
+                "arn09s11-in-f10.1e100.net"
+              ],
+              "ip" : "172.217.22.170",
+              "latitude" : 37.750999999999998,
+              "longitude" : -97.822000000000003,
+              "organization" : "Google",
+              "ports" : [
+                80,
+                443
+              ],
+              "postalCode" : "",
+              "regionCode" : ""
+            }
+          ],
+          "name" : "iid.googleapis.com",
+          "urls" : [
+            "https://iid.googleapis.com/iid/register"
+          ]
+        }
+      ]
+    }
+  ],
+  "FirebaseAnalyticsEnabled" : true,
+  "Frameworks" : [
+    {
+      "bundleId" : "org.cocoapods.FBLPromises",
+      "name" : "FBLPromises",
+      "version" : "1.2.12"
+    },
+    {
+      "bundleId" : "org.cocoapods.GoogleUtilities",
+      "name" : "GoogleUtilities",
+      "version" : "6.7.2"
+    },
+    {
+      "bundleId" : "org.cocoapods.Protobuf",
+      "name" : "Protobuf",
+      "version" : "3.14.0"
+    },
+    {
+      "bundleId" : "org.cocoapods.nanopb",
+      "name" : "nanopb",
+      "version" : "1.30906.0"
+    }
+  ],
+  "GoogleService-Info.plist" : [
+    {
+      "IS_ANALYTICS_ENABLED" : false
+    },
+    {
+      "REVERSED_CLIENT_ID" : "com.googleusercontent.apps.40267346536-p8debu3ahf5nkrq9ct7b7o0th234akfo"
+    },
+    {
+      "GOOGLE_APP_ID" : "1:40267346536:ios:6bc65e332eb741d268c1dd"
+    },
+    {
+      "PLIST_VERSION" : "1"
+    },
+    {
+      "GCM_SENDER_ID" : "40267346536"
+    },
+    {
+      "PROJECT_ID" : "sdktest-4bc9f"
+    },
+    {
+      "IS_GCM_ENABLED" : true
+    },
+    {
+      "IS_SIGNIN_ENABLED" : true
+    },
+    {
+      "CLIENT_ID" : "40267346536-p8debu3ahf5nkrq9ct7b7o0th234akfo.apps.googleusercontent.com"
+    },
+    {
+      "STORAGE_BUCKET" : "sdktest-4bc9f.appspot.com"
+    },
+    {
+      "IS_ADS_ENABLED" : false
+    },
+    {
+      "BUNDLE_ID" : "jLidholm.SDKTestApp"
+    },
+    {
+      "API_KEY" : "AIzaSyBDuxxaTH8dl2-EJLsTmkQ0GIW4lB1HvFM"
+    },
+    {
+      "IS_APPINVITE_ENABLED" : true
+    }
+  ],
+  "Organizations" : [
+    "Akamai Technologies",
+    "Google",
+    "Trellian Pty. Limited"
+  ],
+  "OrgBasedURLS" : [
+    {
+      "name" : "Akamai Technologies",
+      "urls" : [
+        "http://www.apple.com/DTDs/PropertyList-1.0.dtd"
+      ]
+    },
+    {
+      "name" : "Trellian Pty. Limited",
+      "urls" : [
+        "https://dummyapiverylong-dummy.dummy.com/dummy/api/very/long",
+        "https://dummyapiverylongdummy.dummy.com/dummy/api/very/long"
+      ]
+    },
+    {
+      "name" : "Google",
+      "urls" : [
+        "app-measurement.com",
+        "google.to",
+        "http://app-measurement.com",
+        "http://goo.gl/9vSsPb",
+        "http://goo.gl/RfcP7r",
+        "http://google.to",
+        "http://mtalk.google.com",
+        "https://app-measurement.com/a",
+        "https://app-measurement.com/sdk-exp",
+        "http://www.google.com",
+        "https://console.firebase.google.com/",
+        "https://device-provisioning.googleapis.com/checkin",
+        "https://deviceprovisioning.googleapis.com/checkin",
+        "https://fcmtoken.googleapis.com/register",
+        "https://firebase-settings.crashlytics.com",
+        "https://firebase.google.com/docs/cloud-messaging/ios/client",
+        "https://firebase.google.com/docs/cloudmessaging/ios/clientmethod_swizzling_in_firebase_messaging",
+        "https://firebaseinstallations.googleapis.com",
+        "https://firebaselogging.googleapis.com/v0cc/log/logging-pa.googleapis.com/v1/firelog/legacy/batchttps://crashlyticsreports-pa.googleapis.com/v1/firelog/legacy/bAIzaSyB4G40IhwotnuD26vAV-0PAxOVratchlog",
+        "https://firebaselogging.googleapis.com/v0cc/log/loggingpa.googleapis.com/v1/firelog/legacy/batchttps://crashlyticsreportspa.googleapis.com/v1/firelog/legacy/bAIzaSyB4G40IhwotnuD26vAV0PAxOVratchlog",
+        "https://goo.gl/YNbdK2",
+        "https://goo.gl/ctyzm8",
+        "https://goo.gl/txkZbE",
+        "https://iid.googleapis.com/iid/register",
+        "https://support.google.com/admob/answer/6383165",
+        "https://update.crashlytics.com",
+        "mtalk.google.com",
+        "www.google.com"
+      ]
+    }
+  ],
+  "Permissions" : [
+
+  ],
+  "URLsExcludedFromScan" : [
+    "APIErrorWithHTTPResponse:data:",
+    "HTTPAuthHeaderFromCheckin:",
+    "URLSession:task:willPerformHTTPRedirection:newRequest:completionHandler:",
+    "addValue:forHTTPHeaderField:",
+    "apm_dictionaryWithHttpArgumentsString:",
+    "com.crashlytics.CLSUserDefaults.io",
+    "com.crashlytics.in",
+    "contentTypeHTTPHeaderValueWithBoundary:",
+    "errorCodeWithHTTPCode:",
+    "initWithHTTPResponse:data:",
+    "isAPIError:withHTTPCode:",
+    "mutableRequestWithDefaultHTTPHeaderFieldsAndTimeoutForURL:",
+    "mutableRequestWithDefaultHTTPHeadersForURL:timeout:",
+    "requestWithURL:HTTPMethod:bodyDict:refreshToken:",
+    "requestWithURL:HTTPMethod:bodyDict:refreshToken:additionalHeaders:",
+    "setHTTPBody:",
+    "setHTTPBodyStream:",
+    "setHTTPMethod:",
+    "setHTTPResponse:",
+    "setJSONHTTPBody:forRequest:",
+    "setValue:forHTTPHeaderField:",
+    "userInfoWithHTTPResponse:data:",
+    "v560:8NSURLSession16NSURLSessionTask24NSHTTPURLResponse32NSURLRequest40?v?NSURLRequest48",
+    "validateHTTPResponseStatusCode:"
+  ],
+  "URLsScanned" : [
+    "app-measurement.com",
+    "google.to",
+    "http://app-measurement.com",
+    "http://com.crashlytics.CLSUserDefaults.io",
+    "http://com.crashlytics.in",
+    "http://goo.gl/9vSsPb",
+    "http://goo.gl/RfcP7r",
+    "http://google.to",
+    "http://mcs.android.com",
+    "http://mtalk.google.com",
+    "http://www.apple.com/DTDs/PropertyList-1.0.dtd",
+    "http://www.google.com",
+    "https://app-measurement.com/a",
+    "https://app-measurement.com/sdk-exp",
+    "https://appmeasurement.com/a",
+    "https://appmeasurement.com/sdkexp",
+    "https://console.firebase.google.com/",
+    "https://device-provisioning.googleapis.com/checkin",
+    "https://deviceprovisioning.googleapis.com/checkin",
+    "https://dummyapiverylong-dummy.dummy.com/dummy/api/very/long",
+    "https://dummyapiverylongdummy.dummy.com/dummy/api/very/long",
+    "https://fcmtoken.googleapis.com/register",
+    "https://firebase-settings.crashlytics.com",
+    "https://firebase.google.com/docs/cloud-messaging/ios/client",
+    "https://firebase.google.com/docs/cloudmessaging/ios/clientmethod_swizzling_in_firebase_messaging",
+    "https://firebaseinstallations.googleapis.com",
+    "https://firebaselogging.googleapis.com/v0cc/log/logging-pa.googleapis.com/v1/firelog/legacy/batchttps://crashlyticsreports-pa.googleapis.com/v1/firelog/legacy/bAIzaSyB4G40IhwotnuD26vAV-0PAxOVratchlog",
+    "https://firebaselogging.googleapis.com/v0cc/log/loggingpa.googleapis.com/v1/firelog/legacy/batchttps://crashlyticsreportspa.googleapis.com/v1/firelog/legacy/bAIzaSyB4G40IhwotnuD26vAV0PAxOVratchlog",
+    "https://firebasesettings.crashlytics.com",
+    "https://goo.gl/YNbdK2",
+    "https://goo.gl/ctyzm8",
+    "https://goo.gl/txkZbE",
+    "https://iid.googleapis.com/iid/register",
+    "https://reports.crashlytics.com",
+    "https://support.google.com/admob/answer/6383165",
+    "https://update.crashlytics.com",
+    "mcs.android.com",
+    "mtalk.google.com",
+    "www.google.com"
+  ]
+}
